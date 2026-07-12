@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: PromptForge AI",
+  "description": "Plataforma avançada de engenharia de prompts para múltiplos nichos e profissões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "3b50ab01-2e1e-4fcc-849b-2e140c3164f0",
+      "email": "ticarollamas@gmail.com",
+      "name": "Ana Caroline Lamas ",
+      "profession": "Cybersegurança IA enginner ",
+      "role": "user",
+      "tier": "free",
+      "createdAt": "2026-06-11T17:32:33.656Z",
+      "passwordHash": "17db7096eca08220bf7209918a5c41f1d963eded5711b2057be4a69ee3cb3025c239d5d9f83b78d4444d87b1217e055db56596bd4ddeac10239205b75dae2994"
+    }
+  ],
+  "prompts": [],
+  "templates": [],
+  "globalConfig": {
+    "siteName": "Cyber Hunt Lab",
+    "monthlyCheckoutUrl": "https://pay.hotmart.com/mock-monthly",
+    "annualCheckoutUrl": "https://pay.hotmart.com/mock-annual",
+    "address": "Av. Paulista, 1000 - Bela Vista, São Paulo - SP, 01310-100",
+    "phone": "+55 (11) 99999-8888"
+  },
+  "activeSessions": [
+    {
+      "id": "7f237a5b-9ad5-4589-b0e7-3854c44108d7",
+      "userId": "3b50ab01-2e1e-4fcc-849b-2e140c3164f0",
+      "tokenJti": "a79ff0f6-5c08-46e9-8090-f9b991b5d9ab",
+      "ipAddress": "2804:14e0:1106:a000:f4e2:48e:4e0b:5de2",
+      "createdAt": "2026-06-11T20:34:48.853Z",
+      "lastActivity": "2026-06-11T20:35:08.558Z"
+    },
+    {
+      "id": "2d7e813f-0241-4063-bb41-c119ff6c42dc",
+      "userId": "3b50ab01-2e1e-4fcc-849b-2e140c3164f0",
+      "tokenJti": "5c67ee84-eabc-4c76-8f5f-9d8541ad99ac",
+      "ipAddress": "2804:14e0:1106:a000:f4e2:48e:4e0b:5de2",
+      "createdAt": "2026-06-11T21:03:48.050Z",
+      "lastActivity": "2026-06-11T21:32:14.768Z"
+    },
+    {
+      "id": "f2110e08-9827-4a5b-bc17-82cd5397e75a",
+      "userId": "3b50ab01-2e1e-4fcc-849b-2e140c3164f0",
+      "tokenJti": "8003e0fe-1a6c-4d10-bd92-bd6b76f2c7c6",
+      "ipAddress": "2804:14e0:1106:a000:f4e2:48e:4e0b:5de2",
+      "createdAt": "2026-06-11T21:32:41.746Z",
+      "lastActivity": "2026-06-11T21:32:42.426Z"
+    },
+    {
+      "id": "c6ef13ef-a14f-44a3-9513-ef584beacad6",
+      "userId": "3b50ab01-2e1e-4fcc-849b-2e140c3164f0",
+      "tokenJti": "9a704269-50a8-48d8-a2da-429360a12af5",
+      "ipAddress": "2804:14e0:1106:a000:f4e2:48e:4e0b:5de2",
+      "createdAt": "2026-06-11T21:57:32.908Z",
+      "lastActivity": "2026-06-11T22:12:12.541Z"
+    }
+  ]
+}
